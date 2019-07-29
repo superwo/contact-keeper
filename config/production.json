@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://radu:artemida@contactkeeper-coyn1.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
